@@ -1,0 +1,7 @@
+{
+  "name": "SiteControl",
+  "description": "A comprehensive construction site management application for supervisors to log daily site operations (fuel, materials, photos) and owners to monitor site performance with analytics and automated alerts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
